@@ -120,7 +120,7 @@ export const Experience: React.FC = () => {
               {/* Social and Portfolio Links */}
               <div className="flex flex-wrap items-center gap-3 self-start lg:self-auto">
                 <a
-                  href="https://behance.net/tasnimishraque"
+                  href="https://www.behance.net/pixobytegraphic"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[#201f1f] border border-[#353534] hover:border-[#da291c] hover:bg-[#2a2a2a] text-[#e5e2e1] transition-all text-xs font-semibold group cursor-pointer"
@@ -131,7 +131,7 @@ export const Experience: React.FC = () => {
                   <span>VIEW BEHANCE PORTFOLIO</span>
                 </a>
                 <a
-                  href="https://instagram.com/pixobyte.graphics"
+                  href="https://www.instagram.com/pixobyte/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[#201f1f] border border-[#353534] hover:border-[#da291c] hover:bg-[#2a2a2a] text-[#e5e2e1] transition-all text-xs font-semibold group cursor-pointer"
